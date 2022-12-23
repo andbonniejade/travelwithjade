@@ -349,6 +349,14 @@ margin-left: 150px;
     
 }
 
+.margin:hover {
+    margin-right: 0%;
+    border: groove rgba(255, 20, 145, 0.882) 2px;
+    padding: 0px;
+   /* border: groove; */
+    
+}
+
 .img_page3 {
     display: flex ;
     flex-wrap: wrap;
